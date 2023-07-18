@@ -9,10 +9,7 @@ const Dashboard = () => {
 <p>
   Lorem ipsum dolor sit amet consectetur adipisicing elit. 
   Error adipisci animi debitis a maiores mollitia dolorum nulla, 
-  dolorem odio in autem voluptatem! Id magnam deserunt dolores 
-  consequuntur ea? Blanditiis suscipit exercitationem eaque sapiente. 
-  Quod dolorum at nisi voluptas repellendus nam, deleniti tempora illo
-  consectetur, rerum delectus ipsa ipsum quam debitis.
+  dolorem odio in autem voluptatem! 
 </p>
 
     </div>
